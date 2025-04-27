@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">🛠️ My Skills<br>Programming Languages<br>Python (Offensive Tools) 🐍<br><br>Bash Scripting 🖥️<br><br>JavaScript (XSS, Payloads) 📜<br><br>C (Low-level exploits) ⚡<br><br>Cybersecurity & Pentesting<br>Burp Suite 🔥<br><br>Metasploit Framework 💣<br><br>Wireshark 🔍<br><br>Nmap 🛰️<br><br>OWASP ZAP ⚡<br><br>Kali Linux / Parrot OS 🐧<br><br><br>Burp Repeater 🔁<br><br>Competitive CTFs & Hacking Challenges<br><br>TryHackMe 🚀<br><br>Hack The Box 🧠</p>
+<p align="left">🛠️ My Skills<br>Programming Languages<br>Python (Offensive Tools) 🐍<br><br>Bash Scripting 🖥️<br><br>JavaScript (XSS, Payloads) 📜<br><br>C (Low-level exploits) ⚡<br><br>Cybersecurity & Pentesting<br>Burp Suite 🔥<br><br>Metasploit Framework 💣<br><br>Wireshark 🔍<br><br>Nmap 🛰️<br><br>OWASP ZAP ⚡<br><br>Kali Linux / Parrot OS 🐧<br>Competitive CTFs & Hacking Challenges<br><br>TryHackMe 🚀<br><br>Hack The Box 🧠</p>
 
 ###
 
