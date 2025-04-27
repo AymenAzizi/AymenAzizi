@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Cybersecurity Enthusiast & Pentester</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,7 +38,21 @@
 
 ###
 
-<p align="left">Cybersecurity Enthusiast & Pentester</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/aymen-azizi-44ac4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://fr-fr.facebook.com/azizi.aymen.90475" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+  <a href="aziziddaymen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://x.com/Aymen46148966" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
@@ -42,24 +60,12 @@
 
 ###
 
-<p align="left">🛠️ My Skills<br>Programming Languages<br>Python (Offensive Tools) 🐍<br><br>Bash Scripting 🖥️<br><br>JavaScript (XSS, Payloads) 📜<br><br>C (Low-level exploits) ⚡<br><br>Cybersecurity & Pentesting<br>Burp Suite 🔥<br><br>Metasploit Framework 💣<br><br>Wireshark 🔍<br><br>Nmap 🛰️<br><br>OWASP ZAP ⚡<br><br>SQLmap 📊<br><br>Nessus 🛡️<br><br>Kali Linux / Parrot OS 🐧<br><br>Threat Dragon (Threat Modeling) 🕸️<br><br>Postman (API Testing) 📮<br><br>IDEs<br>Visual Studio Code ✨<br><br>JetBrains IDEs 🧠<br><br>Burp Repeater 🔁<br><br>CyberChef (Data Transformation Wizard) 🍳<br><br>Competitive CTFs & Hacking Challenges<br>TryHackMe 🚀<br><br>Hack The Box 🧠<br><br>Root-Me 🎯</p>
+<p align="left">🛠️ My Skills<br>Programming Languages<br>Python (Offensive Tools) 🐍<br><br>Bash Scripting 🖥️<br><br>JavaScript (XSS, Payloads) 📜<br><br>C (Low-level exploits) ⚡<br><br>Cybersecurity & Pentesting<br>Burp Suite 🔥<br><br>Metasploit Framework 💣<br><br>Wireshark 🔍<br><br>Nmap 🛰️<br><br>OWASP ZAP ⚡<br><br>Kali Linux / Parrot OS 🐧<br><br>Threat Dragon (Threat Modeling) 🕸️<br><br>Postman (API Testing) 📮<br><br>IDEs<br>Visual Studio Code ✨<br><br>JetBrains IDEs 🧠<br><br>Burp Repeater 🔁<br><br>Competitive CTFs & Hacking Challenges<br><br>TryHackMe 🚀<br><br>Hack The Box 🧠</p>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aymen-azizi-44ac4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://fr-fr.facebook.com/azizi.aymen.90475" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="aziziddaymen@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://x.com/Aymen46148966" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+<br clear="both">
 
-#### Aymen-Azizi
+<img src="https://raw.githubusercontent.com/AymenAzizi/AymenAzizi/output/snake.svg" alt="Snake animation" />
+
+###
